@@ -1,3 +1,7 @@
-# OIBSIP Batch - April Phase 2 OIBSIP.
+# Web Development Projects
 
-Internship in Oasis Infobyte. This is a Git journal for the April Phase 2 Batch Web Development and Designing Intern at #oasisinfobyte. Author: UMME KULSUM.
+1.Landing Page
+2.Portfolio
+3.Temperature Converter Website
+
+Author: UMME KULSUM.
